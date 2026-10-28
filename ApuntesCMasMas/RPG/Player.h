@@ -4,7 +4,6 @@
 class Player
 {
 public:
-    std::string nombre;
     int vida;
     int mana;
     int velocidad;
