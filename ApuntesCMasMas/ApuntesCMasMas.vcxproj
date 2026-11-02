@@ -21,7 +21,10 @@
   <ItemGroup>
     <ClInclude Include="Apuntes.h" />
     <ClInclude Include="Ejercicio1.h" />
+    <ClInclude Include="Goblin.h" />
     <ClInclude Include="Item.h" />
+    <ClInclude Include="Mago.h" />
+    <ClInclude Include="PolimofismoClass.h" />
     <ClInclude Include="RPG\Combat.h" />
     <ClInclude Include="RPG\Enemy.h" />
     <ClInclude Include="RPG\Habilities.h" />
@@ -31,7 +34,10 @@
   <ItemGroup>
     <ClCompile Include="Apuntes.cpp" />
     <ClCompile Include="Ejercicio1.cpp" />
+    <ClCompile Include="Goblin.cpp" />
     <ClCompile Include="Item.cpp" />
+    <ClCompile Include="Mago.cpp" />
+    <ClCompile Include="PolimofismoClass.cpp" />
     <ClCompile Include="RPG\Combat.cpp" />
     <ClCompile Include="RPG\Enemy.cpp" />
     <ClCompile Include="RPG\Habilities.cpp" />

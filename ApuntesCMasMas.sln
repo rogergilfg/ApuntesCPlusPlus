@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ApuntesCMasMas", "ApuntesCMasMas\ApuntesCMasMas.vcxproj", "{0A44C668-DBF8-4DEF-BC34-F48CCEAF80CE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IsmaelVSPlastelina", "IsmaelVSPlastelina\IsmaelVSPlastelina.vcxproj", "{B3F371D0-A26F-4B98-9317-569075E3A2A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -18,5 +20,13 @@ Global
 		{0A44C668-DBF8-4DEF-BC34-F48CCEAF80CE}.Release|Win32.Build.0 = Release|Win32
 		{0A44C668-DBF8-4DEF-BC34-F48CCEAF80CE}.Release|x64.ActiveCfg = Release|x64
 		{0A44C668-DBF8-4DEF-BC34-F48CCEAF80CE}.Release|x64.Build.0 = Release|x64
+		{B3F371D0-A26F-4B98-9317-569075E3A2A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B3F371D0-A26F-4B98-9317-569075E3A2A8}.Debug|Win32.Build.0 = Debug|Win32
+		{B3F371D0-A26F-4B98-9317-569075E3A2A8}.Debug|x64.ActiveCfg = Debug|x64
+		{B3F371D0-A26F-4B98-9317-569075E3A2A8}.Debug|x64.Build.0 = Debug|x64
+		{B3F371D0-A26F-4B98-9317-569075E3A2A8}.Release|Win32.ActiveCfg = Release|Win32
+		{B3F371D0-A26F-4B98-9317-569075E3A2A8}.Release|Win32.Build.0 = Release|Win32
+		{B3F371D0-A26F-4B98-9317-569075E3A2A8}.Release|x64.ActiveCfg = Release|x64
+		{B3F371D0-A26F-4B98-9317-569075E3A2A8}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal

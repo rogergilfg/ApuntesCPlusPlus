@@ -1,4 +1,4 @@
-﻿#include "Combat.h"
+﻿/*#include "Combat.h"
 #include <iostream>
 #include <vector>
 
@@ -154,4 +154,4 @@ int main()
     }
     
     //std::cout << "| Vida: " << jugador.vida << " | Maná: " << jugador.mana << " | Velocidad: " << jugador.velocidad << " | Damage: " << jugador.damage << std::endl;
-}
+}*/
