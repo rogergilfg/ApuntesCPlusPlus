@@ -20,16 +20,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arma.h" />
-    <ClInclude Include="Arquero.h" />
     <ClInclude Include="Combate.h" />
-    <ClInclude Include="Soldado.h" />
+    <ClInclude Include="Ejercito.h" />
     <ClInclude Include="Unidad.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Arma.cpp" />
-    <ClCompile Include="Arquero.cpp" />
     <ClCompile Include="Combate.cpp" />
-    <ClCompile Include="Soldado.cpp" />
+    <ClCompile Include="Ejercito.cpp" />
     <ClCompile Include="Unidad.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -20,7 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Apuntes.h" />
+    <ClInclude Include="AudioManager.h" />
+    <ClInclude Include="Character.h" />
     <ClInclude Include="Ejercicio1.h" />
+    <ClInclude Include="EjercicioListeners.h" />
+    <ClInclude Include="EnemyFuncionesPunteros.h" />
+    <ClInclude Include="FuncionesPunteros.h" />
     <ClInclude Include="Goblin.h" />
     <ClInclude Include="Item.h" />
     <ClInclude Include="Mago.h" />
@@ -30,10 +35,16 @@
     <ClInclude Include="RPG\Habilities.h" />
     <ClInclude Include="RPG\Item.h" />
     <ClInclude Include="RPG\Player.h" />
+    <ClInclude Include="VFX.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Apuntes.cpp" />
+    <ClCompile Include="AudioManager.cpp" />
+    <ClCompile Include="Character.cpp" />
     <ClCompile Include="Ejercicio1.cpp" />
+    <ClCompile Include="EjercicioListeners.cpp" />
+    <ClCompile Include="EnemyFuncionesPunteros.cpp" />
+    <ClCompile Include="FuncionesPunteros.cpp" />
     <ClCompile Include="Goblin.cpp" />
     <ClCompile Include="Item.cpp" />
     <ClCompile Include="Mago.cpp" />
@@ -43,6 +54,7 @@
     <ClCompile Include="RPG\Habilities.cpp" />
     <ClCompile Include="RPG\Item.cpp" />
     <ClCompile Include="RPG\Player.cpp" />
+    <ClCompile Include="VFX.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

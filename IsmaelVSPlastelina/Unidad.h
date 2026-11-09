@@ -26,6 +26,9 @@ public:
     
     void attack(Unidad& target)
     {
-        target.receiveDamage(damage);
+        if (isAlive())
+        {
+            target.receiveDamage(damage);
+        }
     }
 };

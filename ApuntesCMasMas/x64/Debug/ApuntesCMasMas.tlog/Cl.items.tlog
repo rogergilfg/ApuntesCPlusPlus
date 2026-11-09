@@ -1,5 +1,10 @@
 C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\Apuntes.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Apuntes.obj
+C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\AudioManager.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\AudioManager.obj
+C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\Character.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Character.obj
 C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\Ejercicio1.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Ejercicio1.obj
+C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\EjercicioListeners.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\EjercicioListeners.obj
+C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\EnemyFuncionesPunteros.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\EnemyFuncionesPunteros.obj
+C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\FuncionesPunteros.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\FuncionesPunteros.obj
 C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\Goblin.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Goblin.obj
 C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\Item.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Item.obj
 C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\Mago.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Mago.obj
@@ -9,3 +14,4 @@ C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\RPG\Enemy.cpp;
 C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\RPG\Habilities.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Habilities.obj
 C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\RPG\Item.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Item.obj
 C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\RPG\Player.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\Player.obj
+C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\VFX.cpp;C:\Users\Segundo\Documents\GitHub\ApuntesCPlusPlus\ApuntesCMasMas\x64\Debug\VFX.obj

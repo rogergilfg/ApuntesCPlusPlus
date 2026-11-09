@@ -2,7 +2,7 @@
 
 PolimofismoClass poli;
 
-int main()
+/*int main()
 {
     poli.enemy1.Attack();
     poli.enemy2.Attack();
@@ -14,4 +14,4 @@ int main()
     {
         poli.niggas[i]->Attack();
     }
-}
+}*/
